@@ -1,7 +1,10 @@
 ![](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋)
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="50%" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=butlanys&show_icons=true&theme=tokyonight)
+
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="50%" />
+
+
 
 <!--
 **butlanys/butlanys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
