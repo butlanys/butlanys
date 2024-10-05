@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Metrics](/github-metrics.svg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=butlanys&show_icons=true&theme=tokyonight)
 
 <!--
