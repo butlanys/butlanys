@@ -55,9 +55,3 @@ jobs:
           plugin_rss: yes
           plugin_rss_limit: 4
           plugin_rss_source: https://blog.hqycloud.top/rss.xml
-          plugin_screenshot: yes
-          plugin_screenshot_background: yes
-          plugin_screenshot_mode: image
-          plugin_screenshot_title: butlanys的小站
-          plugin_screenshot_url: https://hqycloud.top/
-          plugin_screenshot_wait: 6000
