@@ -60,5 +60,5 @@ jobs:
           plugin_screenshot_mode: image
           plugin_screenshot_title: butlanys的小站
           plugin_screenshot_url: https://blog.hqycloud.top/
-          plugin_screenshot_viewport: {"width": 1707, "heigh": 1019}
+          plugin_screenshot_viewport: {  "width": 1707,  "height": 1019}
           plugin_screenshot_wait: 6000
