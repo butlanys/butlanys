@@ -30,8 +30,8 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -40,8 +40,8 @@
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -264,14 +264,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="359.7024627871015" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="359.7024627871015" y="0" width="58.865415771095144" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="418.5678785581967" y="0" width="29.89758442346402" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="448.46546298166066" y="0" width="3.885988943015065" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="452.35145192467576" y="0" width="3.6938456294419346" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="456.04529755411767" y="0" width="2.578877144645981" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="458.6241746987636" y="0" width="1.2655443707086718" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.8897190694723" y="0" width="0.11028093052762417" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="360.3847191763091" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="360.3847191763091" y="0" width="58.464994114400426" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="418.84971329070953" y="0" width="29.694211354078647" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="448.5439246447882" y="0" width="3.8595551854330195" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="452.4034798302212" y="0" width="3.668718893018849" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="456.0721987232401" y="0" width="2.5613347856029933" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="458.6335335088431" y="0" width="1.2569357272989248" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.890469236142" y="0" width="0.10953076385802273" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2346,6 +2346,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2763,6 +2768,7 @@
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -2786,14 +2792,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">butlanys/blog-images</span>
+                                        <span class="repo">butlanys/blog</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4d61918</div>
-                                        <div class="message">Upload da2b82dc31d69096d1893c989e7925f.jpg by Qexo</div>
+                                        <div class="sha">#b092d32</div>
+                                        <div class="message">Site updated: 2024-11-07 21:46:32</div>
                                     </div>
                                 </div>
                             </section>
@@ -2812,8 +2818,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ed1c525</div>
-                                        <div class="message">Site updated: 2024-11-05 19:03:09</div>
+                                        <div class="sha">#5296a0f</div>
+                                        <div class="message">Site updated: 2024-11-07 21:20:53</div>
                                     </div>
                                 </div>
                             </section>
@@ -2832,8 +2838,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#11e8ad7</div>
-                                        <div class="message">Site updated: 2024-11-05 19:01:47</div>
+                                        <div class="sha">#de5e51d</div>
+                                        <div class="message">Site updated: 2024-11-07 21:20:25</div>
                                     </div>
                                 </div>
                             </section>
@@ -2852,8 +2858,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c31da03</div>
-                                        <div class="message">Site updated: 2024-11-05 18:53:28</div>
+                                        <div class="sha">#4dc88d5</div>
+                                        <div class="message">Site updated: 2024-11-07 20:49:30</div>
                                     </div>
                                 </div>
                             </section>
@@ -2872,8 +2878,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d7e6400</div>
-                                        <div class="message">Site updated: 2024-11-05 18:51:32</div>
+                                        <div class="sha">#d2e8356</div>
+                                        <div class="message">Site updated: 2024-11-07 20:47:00</div>
                                     </div>
                                 </div>
                             </section>
@@ -2883,7 +2889,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Nov 2024, 09:23:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Nov 2024, 09:23:25 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
