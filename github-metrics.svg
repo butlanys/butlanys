@@ -33,10 +33,10 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -264,14 +264,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="336.27885144605625" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="336.27885144605625" y="0" width="48.17650911966803" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="384.4553605657243" y="0" width="24.745502550206723" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="409.20086311593104" y="0" width="20.73073560056387" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="429.93159871649493" y="0" width="9.197884772312673" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="439.12948348880764" y="0" width="9.081246396556391" height="8" fill="#1d365d"/>
-                    <rect mask="url(#languages-bar)" x="448.210729885364" y="0" width="8.60890725981319" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="456.8196371451772" y="0" width="3.180362854822854" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="342.79458121364115" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="342.79458121364115" y="0" width="45.639310603179325" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="388.4338918168205" y="0" width="23.44228956305983" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="411.87618137988034" y="0" width="19.63895887010755" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="431.51514024998784" y="0" width="8.713481480634186" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="440.2286217306221" y="0" width="8.602985822964833" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="448.8316075535869" y="0" width="8.155522256887153" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="456.987129810474" y="0" width="3.01287018952598" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -338,6 +338,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">OpenResty(nginx)子目录反向代理</div>
+                                <div class="date">19 Jan 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">纪念碑谷3免登陆版分享</div>
                                 <div class="date">24 Dec 2024</div>
                             </div>
@@ -358,15 +367,6 @@
                             <div class="infos">
                                 <div class="title">bash执行长命令报错临时解决办法</div>
                                 <div class="date">23 Dec 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">微信4.0测试版上线</div>
-                                <div class="date">9 Nov 2024</div>
                             </div>
                         </div>
                     </section>
@@ -2392,6 +2392,13 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
+                        <g transform="translate(90.1, 53)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
                     </g>
                 </svg>
             </section>
@@ -2432,6 +2439,9 @@
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
+                                <g transform="translate(45, 0)">
+                                    <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                </g>
                             </g>
                         </svg>
                     </section>
@@ -2460,8 +2470,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#846f726</div>
-                                        <div class="message">Site updated: 2025-01-14 16:18:25</div>
+                                        <div class="sha">#e7a6f2e</div>
+                                        <div class="message">Site updated: 2025-01-19 15:00:25</div>
                                     </div>
                                 </div>
                             </section>
@@ -2480,8 +2490,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a539bb0</div>
-                                        <div class="message">Site updated: 2025-01-14 16:16:33</div>
+                                        <div class="sha">#0a25322</div>
+                                        <div class="message">Site updated: 2025-01-19 14:47:50</div>
                                     </div>
                                 </div>
                             </section>
@@ -2500,8 +2510,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#47c5415</div>
-                                        <div class="message">Site updated: 2025-01-12 14:18:46</div>
+                                        <div class="sha">#84376fa</div>
+                                        <div class="message">Site updated: 2025-01-19 14:36:34</div>
                                     </div>
                                 </div>
                             </section>
@@ -2520,8 +2530,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6ec7b0a</div>
-                                        <div class="message">Site updated: 2025-01-12 14:17:26</div>
+                                        <div class="sha">#720662b</div>
+                                        <div class="message">Site updated: 2025-01-19 14:33:44</div>
                                     </div>
                                 </div>
                             </section>
@@ -2540,8 +2550,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0234bb2</div>
-                                        <div class="message">Site updated: 2025-01-12 14:16:42</div>
+                                        <div class="sha">#b44b72e</div>
+                                        <div class="message">Site updated: 2025-01-19 14:16:36</div>
                                     </div>
                                 </div>
                             </section>
@@ -2551,7 +2561,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jan 2025, 09:34:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Jan 2025, 09:23:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
