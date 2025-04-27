@@ -54,4 +54,4 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_rss: yes
           plugin_rss_limit: 4
-          plugin_rss_source: https://blog.hqycloud.top/rss.xml
+          plugin_rss_source: https://blog.butlanys.de/rss.xml
